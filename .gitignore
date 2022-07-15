@@ -1,6 +1,18 @@
-# Intellij
-/.idea
+# Jetbrains
 /*.iml
+/.idea
+/.idea/.gitignore
+/.idea/deployment.xml
+/.idea/discord.xml
+/.idea/module-perl.iml
+/.idea/modules.xml
+/.idea/php.xml
+/.idea/vcs.xml
 
-# Project
-/vendor
+# Neard
+/.dev
+
+# Visual Studio
+.vscode/
+.vs/
+.vsc/
